@@ -1,4 +1,4 @@
-package $edu.csusm.CommunitySportEventFinder1;
+package edu.csusm.communitysporteventfinder1;
 
 /**
  * Hello world!
